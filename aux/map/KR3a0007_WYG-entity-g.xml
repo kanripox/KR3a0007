@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stylesheet xmlns="http://www.w3.org/1999/XSL/Transform" version="2.0">
+<character-map  name="krx-map">
+<output-character character="􅀈" string="&lt;g ref=&#34;KR0008&#34;/&gt;"/>
+<output-character character="􅀥" string="&lt;g ref=&#34;KR0037&#34;/&gt;"/>
+<output-character character="􅁤" string="&lt;g ref=&#34;KR0100&#34;/&gt;"/>
+<output-character character="􅁷" string="&lt;g ref=&#34;KR0119&#34;/&gt;"/>
+<output-character character="􅃨" string="&lt;g ref=&#34;KR0232&#34;/&gt;"/>
+<output-character character="􅄎" string="&lt;g ref=&#34;KR0270&#34;/&gt;"/>
+<output-character character="􅅥" string="&lt;g ref=&#34;KR0357&#34;/&gt;"/>
+<output-character character="􅆅" string="&lt;g ref=&#34;KR0389&#34;/&gt;"/>
+<output-character character="􅇌" string="&lt;g ref=&#34;KR0460&#34;/&gt;"/>
+<output-character character="􅇟" string="&lt;g ref=&#34;KR0479&#34;/&gt;"/>
+<output-character character="􅈢" string="&lt;g ref=&#34;KR0546&#34;/&gt;"/>
+<output-character character="􅉎" string="&lt;g ref=&#34;KR0590&#34;/&gt;"/>
+<output-character character="􅉘" string="&lt;g ref=&#34;KR0600&#34;/&gt;"/>
+<output-character character="􅉴" string="&lt;g ref=&#34;KR0628&#34;/&gt;"/>
+<output-character character="􅊺" string="&lt;g ref=&#34;KR0698&#34;/&gt;"/>
+<output-character character="􅌉" string="&lt;g ref=&#34;KR0777&#34;/&gt;"/>
+<output-character character="􅌧" string="&lt;g ref=&#34;KR0807&#34;/&gt;"/>
+<output-character character="􅏕" string="&lt;g ref=&#34;KR0981&#34;/&gt;"/>
+<output-character character="􅑒" string="&lt;g ref=&#34;KR1106&#34;/&gt;"/>
+<output-character character="􅙪" string="&lt;g ref=&#34;KR1642&#34;/&gt;"/>
+<output-character character="􅛤" string="&lt;g ref=&#34;KR1764&#34;/&gt;"/>
+<output-character character="􅞪" string="&lt;g ref=&#34;KR1962&#34;/&gt;"/>
+<output-character character="􅠾" string="&lt;g ref=&#34;KR2110&#34;/&gt;"/>
+<output-character character="􅳗" string="&lt;g ref=&#34;KR3287&#34;/&gt;"/>
+</character-map>
+</stylesheet>

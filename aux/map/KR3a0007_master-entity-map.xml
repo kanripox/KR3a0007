@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stylesheet xmlns="http://www.w3.org/1999/XSL/Transform" version="2.0">
+<character-map  name="krx-map">
+<output-character character="􅉴" string="&amp;KR0628;"/>
+<output-character character="􅊞" string="&amp;KR0670;"/>
+<output-character character="􅋣" string="&amp;KR0739;"/>
+<output-character character="􅌉" string="&amp;KR0777;"/>
+<output-character character="􅌧" string="&amp;KR0807;"/>
+<output-character character="􅍝" string="&amp;KR0861;"/>
+<output-character character="􅍱" string="&amp;KR0881;"/>
+<output-character character="􅎪" string="&amp;KR0938;"/>
+<output-character character="􅎮" string="&amp;KR0942;"/>
+<output-character character="􅑒" string="&amp;KR1106;"/>
+<output-character character="􅙪" string="&amp;KR1642;"/>
+<output-character character="􅛤" string="&amp;KR1764;"/>
+<output-character character="􅛷" string="&amp;KR1783;"/>
+<output-character character="􅳗" string="&amp;KR3287;"/>
+<output-character character="􅳢" string="&amp;KR3298;"/>
+</character-map>
+</stylesheet>

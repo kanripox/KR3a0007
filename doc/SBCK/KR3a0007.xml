@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KR3a0007_SBCK">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>説苑</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Published by @kanripo on GitHub.com</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>SBCK</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <sourceDoc>
+      <xi:include href='KR3a0007_000.xml' xmlns:xi='http://www.w3.org/2001/XInclude'/>
+<xi:include href='KR3a0007_001.xml' xmlns:xi='http://www.w3.org/2001/XInclude'/>
+<xi:include href='KR3a0007_002.xml' xmlns:xi='http://www.w3.org/2001/XInclude'/>
+<xi:include href='KR3a0007_003.xml' xmlns:xi='http://www.w3.org/2001/XInclude'/>
+<xi:include href='KR3a0007_004.xml' xmlns:xi='http://www.w3.org/2001/XInclude'/>
+<xi:include href='KR3a0007_005.xml' xmlns:xi='http://www.w3.org/2001/XInclude'/>
+<xi:include href='KR3a0007_006.xml' xmlns:xi='http://www.w3.org/2001/XInclude'/>
+<xi:include href='KR3a0007_007.xml' xmlns:xi='http://www.w3.org/2001/XInclude'/>
+<xi:include href='KR3a0007_008.xml' xmlns:xi='http://www.w3.org/2001/XInclude'/>
+<xi:include href='KR3a0007_009.xml' xmlns:xi='http://www.w3.org/2001/XInclude'/>
+<xi:include href='KR3a0007_010.xml' xmlns:xi='http://www.w3.org/2001/XInclude'/>
+<xi:include href='KR3a0007_011.xml' xmlns:xi='http://www.w3.org/2001/XInclude'/>
+<xi:include href='KR3a0007_012.xml' xmlns:xi='http://www.w3.org/2001/XInclude'/>
+<xi:include href='KR3a0007_013.xml' xmlns:xi='http://www.w3.org/2001/XInclude'/>
+<xi:include href='KR3a0007_014.xml' xmlns:xi='http://www.w3.org/2001/XInclude'/>
+<xi:include href='KR3a0007_015.xml' xmlns:xi='http://www.w3.org/2001/XInclude'/>
+<xi:include href='KR3a0007_016.xml' xmlns:xi='http://www.w3.org/2001/XInclude'/>
+<xi:include href='KR3a0007_017.xml' xmlns:xi='http://www.w3.org/2001/XInclude'/>
+<xi:include href='KR3a0007_018.xml' xmlns:xi='http://www.w3.org/2001/XInclude'/>
+<xi:include href='KR3a0007_019.xml' xmlns:xi='http://www.w3.org/2001/XInclude'/>
+<xi:include href='KR3a0007_020.xml' xmlns:xi='http://www.w3.org/2001/XInclude'/>
+
+  </sourceDoc>
+</TEI>

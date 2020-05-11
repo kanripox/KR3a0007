@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stylesheet xmlns="http://www.w3.org/1999/XSL/Transform" version="2.0">
+<character-map  name="krx-map">
+<output-character character="􅀈" string="&amp;KR0008;"/>
+<output-character character="􅀥" string="&amp;KR0037;"/>
+<output-character character="􅁤" string="&amp;KR0100;"/>
+<output-character character="􅁷" string="&amp;KR0119;"/>
+<output-character character="􅃨" string="&amp;KR0232;"/>
+<output-character character="􅄎" string="&amp;KR0270;"/>
+<output-character character="􅅥" string="&amp;KR0357;"/>
+<output-character character="􅆅" string="&amp;KR0389;"/>
+<output-character character="􅇌" string="&amp;KR0460;"/>
+<output-character character="􅇟" string="&amp;KR0479;"/>
+<output-character character="􅈢" string="&amp;KR0546;"/>
+<output-character character="􅉎" string="&amp;KR0590;"/>
+<output-character character="􅉘" string="&amp;KR0600;"/>
+<output-character character="􅉴" string="&amp;KR0628;"/>
+<output-character character="􅊺" string="&amp;KR0698;"/>
+<output-character character="􅌉" string="&amp;KR0777;"/>
+<output-character character="􅌧" string="&amp;KR0807;"/>
+<output-character character="􅏕" string="&amp;KR0981;"/>
+<output-character character="􅑒" string="&amp;KR1106;"/>
+<output-character character="􅙪" string="&amp;KR1642;"/>
+<output-character character="􅛤" string="&amp;KR1764;"/>
+<output-character character="􅞪" string="&amp;KR1962;"/>
+<output-character character="􅠾" string="&amp;KR2110;"/>
+<output-character character="􅳗" string="&amp;KR3287;"/>
+</character-map>
+</stylesheet>
