@@ -16,8 +16,8 @@
          </sourceDesc>
       </fileDesc>
   </teiHeader>
-  <sourceDoc>
-      <xi:include href='KR3a0007_000.xml' xmlns:xi='http://www.w3.org/2001/XInclude'/>
+      <text><body>
+<xi:include href='KR3a0007_000.xml' xmlns:xi='http://www.w3.org/2001/XInclude'/>
 <xi:include href='KR3a0007_001.xml' xmlns:xi='http://www.w3.org/2001/XInclude'/>
 <xi:include href='KR3a0007_002.xml' xmlns:xi='http://www.w3.org/2001/XInclude'/>
 <xi:include href='KR3a0007_003.xml' xmlns:xi='http://www.w3.org/2001/XInclude'/>
@@ -38,6 +38,5 @@
 <xi:include href='KR3a0007_018.xml' xmlns:xi='http://www.w3.org/2001/XInclude'/>
 <xi:include href='KR3a0007_019.xml' xmlns:xi='http://www.w3.org/2001/XInclude'/>
 <xi:include href='KR3a0007_020.xml' xmlns:xi='http://www.w3.org/2001/XInclude'/>
-
-  </sourceDoc>
+</body></text>
 </TEI>
