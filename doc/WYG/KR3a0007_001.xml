@@ -1,11 +1,11 @@
 <surfaceGrp xmlns='http://www.tei-c.org/ns/1.0' xml:id='KR3a0007_WYG_001'>
-<surface type='dummy'><line xml:id='.06'><!-- md: KR3a0007-SBCK-001-1a-->説苑卷一</line>
-<line xml:id='.07'>　　　　　　　　　　　　　漢　劉向　撰</line>
-<line xml:id='.08'>　　　君道</line>
-<line xml:id='.09'>晉平公問於師曠曰人君之道如何對曰人君之道清</line>
-<line xml:id='.10'>浄無為務在博愛趨在任賢廣開耳目以察萬方不固</line>
-<line xml:id='.11'>溺於流俗不拘繫於左右廓然逺見踔然獨立屢省考</line>
-<line xml:id='.12'>績以臨臣下此人君之操也平公曰善</line>
+<surface xml:id='KR3a0007_WYG_001-1a-z'><line xml:id='KR3a0007_WYG_001-1a.01'><!-- md: KR3a0007-SBCK-001-1a-->説苑卷一</line>
+<line xml:id='KR3a0007_WYG_001-1a.02'>　　　　　　　　　　　　　漢　劉向　撰</line>
+<line xml:id='KR3a0007_WYG_001-1a.03'>　　　君道</line>
+<line xml:id='KR3a0007_WYG_001-1a.04'>晉平公問於師曠曰人君之道如何對曰人君之道清</line>
+<line xml:id='KR3a0007_WYG_001-1a.05'>浄無為務在博愛趨在任賢廣開耳目以察萬方不固</line>
+<line xml:id='KR3a0007_WYG_001-1a.06'>溺於流俗不拘繫於左右廓然逺見踔然獨立屢省考</line>
+<line xml:id='KR3a0007_WYG_001-1a.07'>績以臨臣下此人君之操也平公曰善</line>
 </surface>
 <surface xml:id='KR3a0007_WYG_001-1b-z'>
 <pb ed='WYG' n='001-1b' xml:id='KR3a0007_WYG_001-1b'/><line xml:id='KR3a0007_WYG_001-1b.01'>齊宣王謂尹文曰人君之事何如尹文<!-- md: KR3a0007-SBCK-001-1b-->對曰人君之事</line>
