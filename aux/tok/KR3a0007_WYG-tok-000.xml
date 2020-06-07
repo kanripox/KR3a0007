@@ -1287,99 +1287,241 @@
    <t tp="1028" id="KR3a0007_WYG_001-1a.01" el="surface line" pos="4">庫</t>
    <t tp="1029" id="KR3a0007_WYG_001-1a.01" el="surface line" pos="5">全</t>
    <t tp="1030" id="KR3a0007_WYG_001-1a.01" el="surface line" pos="6">書</t>
-   <t tp="1031" id=".06" el="surface line" pos="1">説</t>
-   <t tp="1032" id=".06" el="surface line" pos="2">苑</t>
-   <t tp="1033" id=".06" el="surface line" pos="3">卷</t>
-   <t tp="1034" id=".06" el="surface line" pos="4">一</t>
+   <t tp="1031" id="KR3a0007_WYG_001-1a.01" el="surface line" pos="1">説</t>
+   <t tp="1032" id="KR3a0007_WYG_001-1a.01" el="surface line" pos="2">苑</t>
+   <t tp="1033" id="KR3a0007_WYG_001-1a.01" el="surface line" pos="3">卷</t>
+   <t tp="1034" id="KR3a0007_WYG_001-1a.01" el="surface line" pos="4">一</t>
    <t tp="1035"
       p="　　"
       f="　"
-      id=".07"
+      id="KR3a0007_WYG_001-1a.02"
       el="surface line"
       pos="14">漢</t>
-   <t tp="1036" p="　" id=".07" el="surface line" pos="16">劉</t>
-   <t tp="1037" f="　" id=".07" el="surface line" pos="17">向</t>
-   <t tp="1038" p="　" id=".07" el="surface line" pos="19">撰</t>
-   <t tp="1039" p="　　" id=".08" el="surface line" pos="4">君</t>
-   <t tp="1040" id=".08" el="surface line" pos="5">道</t>
-   <t tp="1041" id=".09" el="surface line" pos="1">晉</t>
-   <t tp="1042" id=".09" el="surface line" pos="2">平</t>
-   <t tp="1043" id=".09" el="surface line" pos="3">公</t>
-   <t tp="1044" id=".09" el="surface line" pos="4">問</t>
-   <t tp="1045" id=".09" el="surface line" pos="5">於</t>
-   <t tp="1046" id=".09" el="surface line" pos="6">師</t>
-   <t tp="1047" id=".09" el="surface line" pos="7">曠</t>
-   <t tp="1048" id=".09" el="surface line" pos="8">曰</t>
-   <t tp="1049" id=".09" el="surface line" pos="9">人</t>
-   <t tp="1050" id=".09" el="surface line" pos="10">君</t>
-   <t tp="1051" id=".09" el="surface line" pos="11">之</t>
-   <t tp="1052" id=".09" el="surface line" pos="12">道</t>
-   <t tp="1053" id=".09" el="surface line" pos="13">如</t>
-   <t tp="1054" id=".09" el="surface line" pos="14">何</t>
-   <t tp="1055" id=".09" el="surface line" pos="15">對</t>
-   <t tp="1056" id=".09" el="surface line" pos="16">曰</t>
-   <t tp="1057" id=".09" el="surface line" pos="17">人</t>
-   <t tp="1058" id=".09" el="surface line" pos="18">君</t>
-   <t tp="1059" id=".09" el="surface line" pos="19">之</t>
-   <t tp="1060" id=".09" el="surface line" pos="20">道</t>
-   <t tp="1061" id=".09" el="surface line" pos="21">清</t>
-   <t tp="1062" id=".10" el="surface line" pos="1">浄</t>
-   <t tp="1063" id=".10" el="surface line" pos="2">無</t>
-   <t tp="1064" id=".10" el="surface line" pos="3">為</t>
-   <t tp="1065" id=".10" el="surface line" pos="4">務</t>
-   <t tp="1066" id=".10" el="surface line" pos="5">在</t>
-   <t tp="1067" id=".10" el="surface line" pos="6">博</t>
-   <t tp="1068" id=".10" el="surface line" pos="7">愛</t>
-   <t tp="1069" id=".10" el="surface line" pos="8">趨</t>
-   <t tp="1070" id=".10" el="surface line" pos="9">在</t>
-   <t tp="1071" id=".10" el="surface line" pos="10">任</t>
-   <t tp="1072" id=".10" el="surface line" pos="11">賢</t>
-   <t tp="1073" id=".10" el="surface line" pos="12">廣</t>
-   <t tp="1074" id=".10" el="surface line" pos="13">開</t>
-   <t tp="1075" id=".10" el="surface line" pos="14">耳</t>
-   <t tp="1076" id=".10" el="surface line" pos="15">目</t>
-   <t tp="1077" id=".10" el="surface line" pos="16">以</t>
-   <t tp="1078" id=".10" el="surface line" pos="17">察</t>
-   <t tp="1079" id=".10" el="surface line" pos="18">萬</t>
-   <t tp="1080" id=".10" el="surface line" pos="19">方</t>
-   <t tp="1081" id=".10" el="surface line" pos="20">不</t>
-   <t tp="1082" id=".10" el="surface line" pos="21">固</t>
-   <t tp="1083" id=".11" el="surface line" pos="1">溺</t>
-   <t tp="1084" id=".11" el="surface line" pos="2">於</t>
-   <t tp="1085" id=".11" el="surface line" pos="3">流</t>
-   <t tp="1086" id=".11" el="surface line" pos="4">俗</t>
-   <t tp="1087" id=".11" el="surface line" pos="5">不</t>
-   <t tp="1088" id=".11" el="surface line" pos="6">拘</t>
-   <t tp="1089" id=".11" el="surface line" pos="7">繫</t>
-   <t tp="1090" id=".11" el="surface line" pos="8">於</t>
-   <t tp="1091" id=".11" el="surface line" pos="9">左</t>
-   <t tp="1092" id=".11" el="surface line" pos="10">右</t>
-   <t tp="1093" id=".11" el="surface line" pos="11">廓</t>
-   <t tp="1094" id=".11" el="surface line" pos="12">然</t>
-   <t tp="1095" id=".11" el="surface line" pos="13">逺</t>
-   <t tp="1096" id=".11" el="surface line" pos="14">見</t>
-   <t tp="1097" id=".11" el="surface line" pos="15">踔</t>
-   <t tp="1098" id=".11" el="surface line" pos="16">然</t>
-   <t tp="1099" id=".11" el="surface line" pos="17">獨</t>
-   <t tp="1100" id=".11" el="surface line" pos="18">立</t>
-   <t tp="1101" id=".11" el="surface line" pos="19">屢</t>
-   <t tp="1102" id=".11" el="surface line" pos="20">省</t>
-   <t tp="1103" id=".11" el="surface line" pos="21">考</t>
-   <t tp="1104" id=".12" el="surface line" pos="1">績</t>
-   <t tp="1105" id=".12" el="surface line" pos="2">以</t>
-   <t tp="1106" id=".12" el="surface line" pos="3">臨</t>
-   <t tp="1107" id=".12" el="surface line" pos="4">臣</t>
-   <t tp="1108" id=".12" el="surface line" pos="5">下</t>
-   <t tp="1109" id=".12" el="surface line" pos="6">此</t>
-   <t tp="1110" id=".12" el="surface line" pos="7">人</t>
-   <t tp="1111" id=".12" el="surface line" pos="8">君</t>
-   <t tp="1112" id=".12" el="surface line" pos="9">之</t>
-   <t tp="1113" id=".12" el="surface line" pos="10">操</t>
-   <t tp="1114" id=".12" el="surface line" pos="11">也</t>
-   <t tp="1115" id=".12" el="surface line" pos="12">平</t>
-   <t tp="1116" id=".12" el="surface line" pos="13">公</t>
-   <t tp="1117" id=".12" el="surface line" pos="14">曰</t>
-   <t tp="1118" id=".12" el="surface line" pos="15">善</t>
+   <t tp="1036"
+      p="　"
+      id="KR3a0007_WYG_001-1a.02"
+      el="surface line"
+      pos="16">劉</t>
+   <t tp="1037"
+      f="　"
+      id="KR3a0007_WYG_001-1a.02"
+      el="surface line"
+      pos="17">向</t>
+   <t tp="1038"
+      p="　"
+      id="KR3a0007_WYG_001-1a.02"
+      el="surface line"
+      pos="19">撰</t>
+   <t tp="1039"
+      p="　　"
+      id="KR3a0007_WYG_001-1a.03"
+      el="surface line"
+      pos="4">君</t>
+   <t tp="1040" id="KR3a0007_WYG_001-1a.03" el="surface line" pos="5">道</t>
+   <t tp="1041" id="KR3a0007_WYG_001-1a.04" el="surface line" pos="1">晉</t>
+   <t tp="1042" id="KR3a0007_WYG_001-1a.04" el="surface line" pos="2">平</t>
+   <t tp="1043" id="KR3a0007_WYG_001-1a.04" el="surface line" pos="3">公</t>
+   <t tp="1044" id="KR3a0007_WYG_001-1a.04" el="surface line" pos="4">問</t>
+   <t tp="1045" id="KR3a0007_WYG_001-1a.04" el="surface line" pos="5">於</t>
+   <t tp="1046" id="KR3a0007_WYG_001-1a.04" el="surface line" pos="6">師</t>
+   <t tp="1047" id="KR3a0007_WYG_001-1a.04" el="surface line" pos="7">曠</t>
+   <t tp="1048" id="KR3a0007_WYG_001-1a.04" el="surface line" pos="8">曰</t>
+   <t tp="1049" id="KR3a0007_WYG_001-1a.04" el="surface line" pos="9">人</t>
+   <t tp="1050"
+      id="KR3a0007_WYG_001-1a.04"
+      el="surface line"
+      pos="10">君</t>
+   <t tp="1051"
+      id="KR3a0007_WYG_001-1a.04"
+      el="surface line"
+      pos="11">之</t>
+   <t tp="1052"
+      id="KR3a0007_WYG_001-1a.04"
+      el="surface line"
+      pos="12">道</t>
+   <t tp="1053"
+      id="KR3a0007_WYG_001-1a.04"
+      el="surface line"
+      pos="13">如</t>
+   <t tp="1054"
+      id="KR3a0007_WYG_001-1a.04"
+      el="surface line"
+      pos="14">何</t>
+   <t tp="1055"
+      id="KR3a0007_WYG_001-1a.04"
+      el="surface line"
+      pos="15">對</t>
+   <t tp="1056"
+      id="KR3a0007_WYG_001-1a.04"
+      el="surface line"
+      pos="16">曰</t>
+   <t tp="1057"
+      id="KR3a0007_WYG_001-1a.04"
+      el="surface line"
+      pos="17">人</t>
+   <t tp="1058"
+      id="KR3a0007_WYG_001-1a.04"
+      el="surface line"
+      pos="18">君</t>
+   <t tp="1059"
+      id="KR3a0007_WYG_001-1a.04"
+      el="surface line"
+      pos="19">之</t>
+   <t tp="1060"
+      id="KR3a0007_WYG_001-1a.04"
+      el="surface line"
+      pos="20">道</t>
+   <t tp="1061"
+      id="KR3a0007_WYG_001-1a.04"
+      el="surface line"
+      pos="21">清</t>
+   <t tp="1062" id="KR3a0007_WYG_001-1a.05" el="surface line" pos="1">浄</t>
+   <t tp="1063" id="KR3a0007_WYG_001-1a.05" el="surface line" pos="2">無</t>
+   <t tp="1064" id="KR3a0007_WYG_001-1a.05" el="surface line" pos="3">為</t>
+   <t tp="1065" id="KR3a0007_WYG_001-1a.05" el="surface line" pos="4">務</t>
+   <t tp="1066" id="KR3a0007_WYG_001-1a.05" el="surface line" pos="5">在</t>
+   <t tp="1067" id="KR3a0007_WYG_001-1a.05" el="surface line" pos="6">博</t>
+   <t tp="1068" id="KR3a0007_WYG_001-1a.05" el="surface line" pos="7">愛</t>
+   <t tp="1069" id="KR3a0007_WYG_001-1a.05" el="surface line" pos="8">趨</t>
+   <t tp="1070" id="KR3a0007_WYG_001-1a.05" el="surface line" pos="9">在</t>
+   <t tp="1071"
+      id="KR3a0007_WYG_001-1a.05"
+      el="surface line"
+      pos="10">任</t>
+   <t tp="1072"
+      id="KR3a0007_WYG_001-1a.05"
+      el="surface line"
+      pos="11">賢</t>
+   <t tp="1073"
+      id="KR3a0007_WYG_001-1a.05"
+      el="surface line"
+      pos="12">廣</t>
+   <t tp="1074"
+      id="KR3a0007_WYG_001-1a.05"
+      el="surface line"
+      pos="13">開</t>
+   <t tp="1075"
+      id="KR3a0007_WYG_001-1a.05"
+      el="surface line"
+      pos="14">耳</t>
+   <t tp="1076"
+      id="KR3a0007_WYG_001-1a.05"
+      el="surface line"
+      pos="15">目</t>
+   <t tp="1077"
+      id="KR3a0007_WYG_001-1a.05"
+      el="surface line"
+      pos="16">以</t>
+   <t tp="1078"
+      id="KR3a0007_WYG_001-1a.05"
+      el="surface line"
+      pos="17">察</t>
+   <t tp="1079"
+      id="KR3a0007_WYG_001-1a.05"
+      el="surface line"
+      pos="18">萬</t>
+   <t tp="1080"
+      id="KR3a0007_WYG_001-1a.05"
+      el="surface line"
+      pos="19">方</t>
+   <t tp="1081"
+      id="KR3a0007_WYG_001-1a.05"
+      el="surface line"
+      pos="20">不</t>
+   <t tp="1082"
+      id="KR3a0007_WYG_001-1a.05"
+      el="surface line"
+      pos="21">固</t>
+   <t tp="1083" id="KR3a0007_WYG_001-1a.06" el="surface line" pos="1">溺</t>
+   <t tp="1084" id="KR3a0007_WYG_001-1a.06" el="surface line" pos="2">於</t>
+   <t tp="1085" id="KR3a0007_WYG_001-1a.06" el="surface line" pos="3">流</t>
+   <t tp="1086" id="KR3a0007_WYG_001-1a.06" el="surface line" pos="4">俗</t>
+   <t tp="1087" id="KR3a0007_WYG_001-1a.06" el="surface line" pos="5">不</t>
+   <t tp="1088" id="KR3a0007_WYG_001-1a.06" el="surface line" pos="6">拘</t>
+   <t tp="1089" id="KR3a0007_WYG_001-1a.06" el="surface line" pos="7">繫</t>
+   <t tp="1090" id="KR3a0007_WYG_001-1a.06" el="surface line" pos="8">於</t>
+   <t tp="1091" id="KR3a0007_WYG_001-1a.06" el="surface line" pos="9">左</t>
+   <t tp="1092"
+      id="KR3a0007_WYG_001-1a.06"
+      el="surface line"
+      pos="10">右</t>
+   <t tp="1093"
+      id="KR3a0007_WYG_001-1a.06"
+      el="surface line"
+      pos="11">廓</t>
+   <t tp="1094"
+      id="KR3a0007_WYG_001-1a.06"
+      el="surface line"
+      pos="12">然</t>
+   <t tp="1095"
+      id="KR3a0007_WYG_001-1a.06"
+      el="surface line"
+      pos="13">逺</t>
+   <t tp="1096"
+      id="KR3a0007_WYG_001-1a.06"
+      el="surface line"
+      pos="14">見</t>
+   <t tp="1097"
+      id="KR3a0007_WYG_001-1a.06"
+      el="surface line"
+      pos="15">踔</t>
+   <t tp="1098"
+      id="KR3a0007_WYG_001-1a.06"
+      el="surface line"
+      pos="16">然</t>
+   <t tp="1099"
+      id="KR3a0007_WYG_001-1a.06"
+      el="surface line"
+      pos="17">獨</t>
+   <t tp="1100"
+      id="KR3a0007_WYG_001-1a.06"
+      el="surface line"
+      pos="18">立</t>
+   <t tp="1101"
+      id="KR3a0007_WYG_001-1a.06"
+      el="surface line"
+      pos="19">屢</t>
+   <t tp="1102"
+      id="KR3a0007_WYG_001-1a.06"
+      el="surface line"
+      pos="20">省</t>
+   <t tp="1103"
+      id="KR3a0007_WYG_001-1a.06"
+      el="surface line"
+      pos="21">考</t>
+   <t tp="1104" id="KR3a0007_WYG_001-1a.07" el="surface line" pos="1">績</t>
+   <t tp="1105" id="KR3a0007_WYG_001-1a.07" el="surface line" pos="2">以</t>
+   <t tp="1106" id="KR3a0007_WYG_001-1a.07" el="surface line" pos="3">臨</t>
+   <t tp="1107" id="KR3a0007_WYG_001-1a.07" el="surface line" pos="4">臣</t>
+   <t tp="1108" id="KR3a0007_WYG_001-1a.07" el="surface line" pos="5">下</t>
+   <t tp="1109" id="KR3a0007_WYG_001-1a.07" el="surface line" pos="6">此</t>
+   <t tp="1110" id="KR3a0007_WYG_001-1a.07" el="surface line" pos="7">人</t>
+   <t tp="1111" id="KR3a0007_WYG_001-1a.07" el="surface line" pos="8">君</t>
+   <t tp="1112" id="KR3a0007_WYG_001-1a.07" el="surface line" pos="9">之</t>
+   <t tp="1113"
+      id="KR3a0007_WYG_001-1a.07"
+      el="surface line"
+      pos="10">操</t>
+   <t tp="1114"
+      id="KR3a0007_WYG_001-1a.07"
+      el="surface line"
+      pos="11">也</t>
+   <t tp="1115"
+      id="KR3a0007_WYG_001-1a.07"
+      el="surface line"
+      pos="12">平</t>
+   <t tp="1116"
+      id="KR3a0007_WYG_001-1a.07"
+      el="surface line"
+      pos="13">公</t>
+   <t tp="1117"
+      id="KR3a0007_WYG_001-1a.07"
+      el="surface line"
+      pos="14">曰</t>
+   <t tp="1118"
+      id="KR3a0007_WYG_001-1a.07"
+      el="surface line"
+      pos="15">善</t>
    <t tp="1119"
       ms="pb-KR3a0007_WYG_001-1b"
       id="KR3a0007_WYG_001-1b.01"
