@@ -1,115 +1,115 @@
 <div ed='KR3a0007_master'>
-<seg id='i' tp='0' tcount='0'>
-<ref ed='KR3a0007_WYG' corresp='#no_id' tp='2' tcount='11' diff='11'/>
+<seg id='i' tp='-1' tcount='0'>
+<ref ed='KR3a0007_WYG' corresp='#no_id' tp='0' tcount='11' diff='11'/>
 </seg>
-<seg id='no_id' tp='1' tcount='2'>
-<ref ed='CH1a0907' corresp='#d' tp='0' tcount='0' diff='2'/>
-<ref ed='KR3a0007_SBCK' corresp='#no_id' tp='2' tcount='2'/>
-<ref ed='KR3a0007_WYG' corresp='#KR3a0007_WYG_000-1a.02' tp='13' tcount='2'/>
+<seg id='no_id' tp='0' tcount='2'>
+<ref ed='CH1a0907' corresp='#CH1a0907_d' tp='0' tcount='0' diff='2'/>
+<ref ed='KR3a0007_SBCK' corresp='#no_id' tp='0' tcount='2'/>
+<ref ed='KR3a0007_WYG' corresp='#KR3a0007_WYG_000-1a.02' tp='11' tcount='2'/>
 </seg>
-<seg id='KR3a0007_master_000' tp='3' tcount='690'>
-<ref ed='CH1a0907' corresp='#no_id' tp='2' tcount='2' diff='688'/>
-<ref ed='KR3a0007_SBCK' corresp='#KR3a0007_SBCK_000-1a.01' tp='4' tcount='690'/>
-<ref ed='KR3a0007_WYG' corresp='#KR3a0007_WYG_000-4a.01' tp='550' tcount='587' diff='104'/>
+<seg id='KR3a0007_master_000' tp='2' tcount='690'>
+<ref ed='CH1a0907' corresp='#no_id' tp='0' tcount='2' diff='688'/>
+<ref ed='KR3a0007_SBCK' corresp='#KR3a0007_SBCK_000-1a.01' tp='2' tcount='690'/>
+<ref ed='KR3a0007_WYG' corresp='#KR3a0007_WYG_000-4a.01' tp='548' tcount='587' diff='104'/>
 </seg>
-<seg id='KR3a0007_master_001' tp='693' tcount='6335'>
-<ref ed='CH1a0907' corresp='#d' tp='0' tcount='6384' diff='61'/>
-<ref ed='KR3a0007_SBCK' corresp='#KR3a0007_SBCK_001-1a.01' tp='694' tcount='6335'/>
-<ref ed='KR3a0007_WYG' corresp='#KR3a0007_WYG_001-1a.01' tp='1032' tcount='6339' diff='6'/>
+<seg id='KR3a0007_master_001' tp='692' tcount='6335'>
+<ref ed='CH1a0907' corresp='#CH1a0907_d' tp='0' tcount='6384' diff='61'/>
+<ref ed='KR3a0007_SBCK' corresp='#KR3a0007_SBCK_001-1a.01' tp='692' tcount='6335'/>
+<ref ed='KR3a0007_WYG' corresp='#KR3a0007_WYG_001-1a.01' tp='1030' tcount='6339' diff='6'/>
 </seg>
-<seg id='KR3a0007_master_002' tp='7028' tcount='4756'>
-<ref ed='CH1a0907' corresp='#d' tp='0' tcount='4786' diff='43'/>
-<ref ed='KR3a0007_SBCK' corresp='#KR3a0007_SBCK_002-1a.01' tp='7029' tcount='4756'/>
-<ref ed='KR3a0007_WYG' corresp='#KR3a0007_WYG_001-21b.08' tp='7370' tcount='4760' diff='7'/>
+<seg id='KR3a0007_master_002' tp='7027' tcount='4756'>
+<ref ed='CH1a0907' corresp='#CH1a0907_d' tp='0' tcount='4786' diff='43'/>
+<ref ed='KR3a0007_SBCK' corresp='#KR3a0007_SBCK_002-1a.01' tp='7027' tcount='4756'/>
+<ref ed='KR3a0007_WYG' corresp='#KR3a0007_WYG_001-21b.08' tp='7368' tcount='4760' diff='7'/>
 </seg>
-<seg id='KR3a0007_master_003' tp='11784' tcount='4017'>
-<ref ed='CH1a0907' corresp='#d' tp='0' tcount='4054' diff='44'/>
-<ref ed='KR3a0007_SBCK' corresp='#KR3a0007_SBCK_003-1a.01' tp='11785' tcount='4017'/>
-<ref ed='KR3a0007_WYG' corresp='#KR3a0007_WYG_002-16b.08' tp='12139' tcount='4023' diff='7'/>
+<seg id='KR3a0007_master_003' tp='11783' tcount='4017'>
+<ref ed='CH1a0907' corresp='#CH1a0907_d' tp='0' tcount='4054' diff='44'/>
+<ref ed='KR3a0007_SBCK' corresp='#KR3a0007_SBCK_003-1a.01' tp='11783' tcount='4017'/>
+<ref ed='KR3a0007_WYG' corresp='#KR3a0007_WYG_002-16b.08' tp='12137' tcount='4023' diff='7'/>
 </seg>
-<seg id='KR3a0007_master_004' tp='15801' tcount='3917'>
-<ref ed='CH1a0907' corresp='#d' tp='0' tcount='3937' diff='29'/>
-<ref ed='KR3a0007_SBCK' corresp='#KR3a0007_SBCK_004-1a.01' tp='15802' tcount='3922' diff='5'/>
-<ref ed='KR3a0007_WYG' corresp='#KR3a0007_WYG_003-14b.08' tp='16171' tcount='3923' diff='15'/>
+<seg id='KR3a0007_master_004' tp='15800' tcount='3917'>
+<ref ed='CH1a0907' corresp='#CH1a0907_d' tp='0' tcount='3937' diff='29'/>
+<ref ed='KR3a0007_SBCK' corresp='#KR3a0007_SBCK_004-1a.01' tp='15800' tcount='3922' diff='5'/>
+<ref ed='KR3a0007_WYG' corresp='#KR3a0007_WYG_003-14b.08' tp='16169' tcount='3923' diff='15'/>
 </seg>
-<seg id='KR3a0007_master_005' tp='19718' tcount='4609'>
-<ref ed='CH1a0907' corresp='#d' tp='0' tcount='4643' diff='53'/>
-<ref ed='KR3a0007_SBCK' corresp='#KR3a0007_SBCK_005-1a.01' tp='19724' tcount='4609'/>
-<ref ed='KR3a0007_WYG' corresp='#.10' tp='20096' tcount='4617' diff='17'/>
+<seg id='KR3a0007_master_005' tp='19717' tcount='4609'>
+<ref ed='CH1a0907' corresp='#CH1a0907_d' tp='0' tcount='4643' diff='53'/>
+<ref ed='KR3a0007_SBCK' corresp='#KR3a0007_SBCK_005-1a.01' tp='19722' tcount='4609'/>
+<ref ed='KR3a0007_WYG' corresp='#.10' tp='20094' tcount='4617' diff='17'/>
 </seg>
-<seg id='KR3a0007_master_006' tp='24327' tcount='5119'>
-<ref ed='CH1a0907' corresp='#d' tp='0' tcount='5156' diff='54'/>
-<ref ed='KR3a0007_SBCK' corresp='#KR3a0007_SBCK_006-1a.01' tp='24333' tcount='5119'/>
-<ref ed='KR3a0007_WYG' corresp='#KR3a0007_WYG_006-1a.02' tp='24723' tcount='5013' diff='292'/>
+<seg id='KR3a0007_master_006' tp='24326' tcount='5119'>
+<ref ed='CH1a0907' corresp='#CH1a0907_d' tp='0' tcount='5156' diff='54'/>
+<ref ed='KR3a0007_SBCK' corresp='#KR3a0007_SBCK_006-1a.01' tp='24331' tcount='5119'/>
+<ref ed='KR3a0007_WYG' corresp='#KR3a0007_WYG_006-1a.02' tp='24721' tcount='5013' diff='292'/>
 </seg>
-<seg id='KR3a0007_master_007' tp='29446' tcount='6058'>
-<ref ed='CH1a0907' corresp='#d' tp='0' tcount='6093' diff='43'/>
-<ref ed='KR3a0007_SBCK' corresp='#KR3a0007_SBCK_007-1a.01' tp='29452' tcount='6058'/>
-<ref ed='KR3a0007_WYG' corresp='#.07' tp='29732' tcount='6074' diff='20'/>
+<seg id='KR3a0007_master_007' tp='29445' tcount='6058'>
+<ref ed='CH1a0907' corresp='#CH1a0907_d' tp='0' tcount='6093' diff='43'/>
+<ref ed='KR3a0007_SBCK' corresp='#KR3a0007_SBCK_007-1a.01' tp='29450' tcount='6058'/>
+<ref ed='KR3a0007_WYG' corresp='#.07' tp='29730' tcount='6074' diff='20'/>
 </seg>
-<seg id='KR3a0007_master_008' tp='35504' tcount='6784'>
-<ref ed='CH1a0907' corresp='#d' tp='0' tcount='6826' diff='60'/>
-<ref ed='KR3a0007_SBCK' corresp='#KR3a0007_SBCK_008-1a.01' tp='35510' tcount='6784'/>
-<ref ed='KR3a0007_WYG' corresp='#KR3a0007_WYG_008-1a.02' tp='35816' tcount='6793' diff='18'/>
+<seg id='KR3a0007_master_008' tp='35503' tcount='6784'>
+<ref ed='CH1a0907' corresp='#CH1a0907_d' tp='0' tcount='6826' diff='60'/>
+<ref ed='KR3a0007_SBCK' corresp='#KR3a0007_SBCK_008-1a.01' tp='35508' tcount='6784'/>
+<ref ed='KR3a0007_WYG' corresp='#KR3a0007_WYG_008-1a.02' tp='35814' tcount='6793' diff='18'/>
 </seg>
-<seg id='KR3a0007_master_009' tp='42288' tcount='6343'>
-<ref ed='CH1a0907' corresp='#d' tp='0' tcount='6371' diff='84'/>
-<ref ed='KR3a0007_SBCK' corresp='#KR3a0007_SBCK_009-1a.01' tp='42294' tcount='6343'/>
-<ref ed='KR3a0007_WYG' corresp='#KR3a0007_WYG_009-1a.02' tp='42609' tcount='6365' diff='26'/>
+<seg id='KR3a0007_master_009' tp='42287' tcount='6343'>
+<ref ed='CH1a0907' corresp='#CH1a0907_d' tp='0' tcount='6371' diff='84'/>
+<ref ed='KR3a0007_SBCK' corresp='#KR3a0007_SBCK_009-1a.01' tp='42292' tcount='6343'/>
+<ref ed='KR3a0007_WYG' corresp='#KR3a0007_WYG_009-1a.02' tp='42607' tcount='6365' diff='26'/>
 </seg>
-<seg id='KR3a0007_master_010' tp='48631' tcount='5448'>
-<ref ed='CH1a0907' corresp='#d' tp='0' tcount='5468' diff='31'/>
-<ref ed='KR3a0007_SBCK' corresp='#KR3a0007_SBCK_010-1a.01' tp='48637' tcount='5448'/>
-<ref ed='KR3a0007_WYG' corresp='#.07' tp='48974' tcount='5458' diff='17'/>
+<seg id='KR3a0007_master_010' tp='48630' tcount='5448'>
+<ref ed='CH1a0907' corresp='#CH1a0907_d' tp='0' tcount='5468' diff='31'/>
+<ref ed='KR3a0007_SBCK' corresp='#KR3a0007_SBCK_010-1a.01' tp='48635' tcount='5448'/>
+<ref ed='KR3a0007_WYG' corresp='#.07' tp='48972' tcount='5458' diff='17'/>
 </seg>
-<seg id='KR3a0007_master_011' tp='54079' tcount='5797'>
-<ref ed='CH1a0907' corresp='#d' tp='0' tcount='5817' diff='29'/>
-<ref ed='KR3a0007_SBCK' corresp='#KR3a0007_SBCK_011-1a.01' tp='54085' tcount='5797'/>
-<ref ed='KR3a0007_WYG' corresp='#KR3a0007_WYG_011-1a.02' tp='54441' tcount='5798' diff='10'/>
+<seg id='KR3a0007_master_011' tp='54078' tcount='5797'>
+<ref ed='CH1a0907' corresp='#CH1a0907_d' tp='0' tcount='5817' diff='29'/>
+<ref ed='KR3a0007_SBCK' corresp='#KR3a0007_SBCK_011-1a.01' tp='54083' tcount='5797'/>
+<ref ed='KR3a0007_WYG' corresp='#KR3a0007_WYG_011-1a.02' tp='54439' tcount='5798' diff='10'/>
 </seg>
-<seg id='KR3a0007_master_012' tp='59876' tcount='4435'>
-<ref ed='CH1a0907' corresp='#d' tp='0' tcount='4490' diff='63'/>
-<ref ed='KR3a0007_SBCK' corresp='#KR3a0007_SBCK_012-1a.01' tp='59882' tcount='4435'/>
-<ref ed='KR3a0007_WYG' corresp='#KR3a0007_WYG_011-19b.08' tp='60239' tcount='4484' diff='52'/>
+<seg id='KR3a0007_master_012' tp='59875' tcount='4435'>
+<ref ed='CH1a0907' corresp='#CH1a0907_d' tp='0' tcount='4490' diff='63'/>
+<ref ed='KR3a0007_SBCK' corresp='#KR3a0007_SBCK_012-1a.01' tp='59880' tcount='4435'/>
+<ref ed='KR3a0007_WYG' corresp='#KR3a0007_WYG_011-19b.08' tp='60237' tcount='4484' diff='52'/>
 </seg>
-<seg id='KR3a0007_master_013' tp='64311' tcount='6513'>
-<ref ed='CH1a0907' corresp='#CH1a0907_CHANT_012-21a.24' tp='64114' tcount='6567' diff='59'/>
-<ref ed='KR3a0007_SBCK' corresp='#KR3a0007_SBCK_013-1a.01' tp='64317' tcount='6513'/>
-<ref ed='KR3a0007_WYG' corresp='#KR3a0007_WYG_012-15b.08' tp='64733' tcount='6510' diff='9'/>
+<seg id='KR3a0007_master_013' tp='64310' tcount='6513'>
+<ref ed='CH1a0907' corresp='#CH1a0907_CHANT_012-21a.24' tp='64112' tcount='6567' diff='59'/>
+<ref ed='KR3a0007_SBCK' corresp='#KR3a0007_SBCK_013-1a.01' tp='64315' tcount='6513'/>
+<ref ed='KR3a0007_WYG' corresp='#KR3a0007_WYG_012-15b.08' tp='64731' tcount='6510' diff='9'/>
 </seg>
-<seg id='KR3a0007_master_014' tp='70824' tcount='3904'>
-<ref ed='CH1a0907' corresp='#d' tp='0' tcount='3924' diff='28'/>
-<ref ed='KR3a0007_SBCK' corresp='#KR3a0007_SBCK_014-1a.01' tp='70830' tcount='3904'/>
-<ref ed='KR3a0007_WYG' corresp='#KR3a0007_WYG_013-22b.08' tp='71253' tcount='3907' diff='4'/>
+<seg id='KR3a0007_master_014' tp='70823' tcount='3904'>
+<ref ed='CH1a0907' corresp='#CH1a0907_d' tp='0' tcount='3924' diff='28'/>
+<ref ed='KR3a0007_SBCK' corresp='#KR3a0007_SBCK_014-1a.01' tp='70828' tcount='3904'/>
+<ref ed='KR3a0007_WYG' corresp='#KR3a0007_WYG_013-22b.08' tp='71251' tcount='3907' diff='4'/>
 </seg>
-<seg id='KR3a0007_master_015' tp='74728' tcount='3919'>
-<ref ed='CH1a0907' corresp='#d' tp='0' tcount='3935' diff='24'/>
-<ref ed='KR3a0007_SBCK' corresp='#KR3a0007_SBCK_015-1a.01' tp='74734' tcount='3919'/>
-<ref ed='KR3a0007_WYG' corresp='#KR3a0007_WYG_014-13b.08' tp='75170' tcount='3924' diff='7'/>
+<seg id='KR3a0007_master_015' tp='74727' tcount='3919'>
+<ref ed='CH1a0907' corresp='#CH1a0907_d' tp='0' tcount='3935' diff='24'/>
+<ref ed='KR3a0007_SBCK' corresp='#KR3a0007_SBCK_015-1a.01' tp='74732' tcount='3919'/>
+<ref ed='KR3a0007_WYG' corresp='#KR3a0007_WYG_014-13b.08' tp='75168' tcount='3924' diff='7'/>
 </seg>
-<seg id='KR3a0007_master_016' tp='78647' tcount='4398'>
-<ref ed='CH1a0907' corresp='#d' tp='0' tcount='4396' diff='14'/>
-<ref ed='KR3a0007_SBCK' corresp='#KR3a0007_SBCK_016-1a.01' tp='78653' tcount='4398'/>
-<ref ed='KR3a0007_WYG' corresp='#.12' tp='79104' tcount='4405' diff='9'/>
+<seg id='KR3a0007_master_016' tp='78646' tcount='4398'>
+<ref ed='CH1a0907' corresp='#CH1a0907_d' tp='0' tcount='4396' diff='14'/>
+<ref ed='KR3a0007_SBCK' corresp='#KR3a0007_SBCK_016-1a.01' tp='78651' tcount='4398'/>
+<ref ed='KR3a0007_WYG' corresp='#.12' tp='79102' tcount='4405' diff='9'/>
 </seg>
-<seg id='KR3a0007_master_017' tp='83045' tcount='6368'>
-<ref ed='CH1a0907' corresp='#d' tp='0' tcount='6456' diff='104'/>
-<ref ed='KR3a0007_SBCK' corresp='#KR3a0007_SBCK_017-1a.01' tp='83051' tcount='6368'/>
-<ref ed='KR3a0007_WYG' corresp='#KR3a0007_WYG_017-1a.02' tp='83523' tcount='6381' diff='18'/>
+<seg id='KR3a0007_master_017' tp='83044' tcount='6368'>
+<ref ed='CH1a0907' corresp='#CH1a0907_d' tp='0' tcount='6456' diff='104'/>
+<ref ed='KR3a0007_SBCK' corresp='#KR3a0007_SBCK_017-1a.01' tp='83049' tcount='6368'/>
+<ref ed='KR3a0007_WYG' corresp='#KR3a0007_WYG_017-1a.02' tp='83521' tcount='6381' diff='18'/>
 </seg>
-<seg id='KR3a0007_master_018' tp='89413' tcount='6666'>
-<ref ed='CH1a0907' corresp='#d' tp='0' tcount='6735' diff='78'/>
-<ref ed='KR3a0007_SBCK' corresp='#KR3a0007_SBCK_018-1a.01' tp='89419' tcount='6666'/>
-<ref ed='KR3a0007_WYG' corresp='#KR3a0007_WYG_018-1a.02' tp='89905' tcount='6630' diff='60'/>
+<seg id='KR3a0007_master_018' tp='89412' tcount='6666'>
+<ref ed='CH1a0907' corresp='#CH1a0907_d' tp='0' tcount='6735' diff='78'/>
+<ref ed='KR3a0007_SBCK' corresp='#KR3a0007_SBCK_018-1a.01' tp='89417' tcount='6666'/>
+<ref ed='KR3a0007_WYG' corresp='#KR3a0007_WYG_018-1a.02' tp='89903' tcount='6630' diff='60'/>
 </seg>
-<seg id='KR3a0007_master_019' tp='96079' tcount='7655'>
-<ref ed='CH1a0907' corresp='#d' tp='0' tcount='7708' diff='63'/>
-<ref ed='KR3a0007_SBCK' corresp='#KR3a0007_SBCK_019-1a.01' tp='96085' tcount='7655'/>
-<ref ed='KR3a0007_WYG' corresp='#KR3a0007_WYG_019-1a.02' tp='96535' tcount='7659' diff='13'/>
+<seg id='KR3a0007_master_019' tp='96078' tcount='7655'>
+<ref ed='CH1a0907' corresp='#CH1a0907_d' tp='0' tcount='7708' diff='63'/>
+<ref ed='KR3a0007_SBCK' corresp='#KR3a0007_SBCK_019-1a.01' tp='96083' tcount='7655'/>
+<ref ed='KR3a0007_WYG' corresp='#KR3a0007_WYG_019-1a.02' tp='96533' tcount='7659' diff='13'/>
 </seg>
-<seg id='KR3a0007_master_020' tp='103734' tcount='4610'>
-<ref ed='CH1a0907' corresp='#d' tp='0' tcount='8739' diff='4141'/>
-<ref ed='KR3a0007_SBCK' corresp='#KR3a0007_SBCK_020-1a.01' tp='103740' tcount='4610'/>
-<ref ed='KR3a0007_WYG' corresp='#KR3a0007_WYG_019-25b.03' tp='104198' tcount='4615' diff='12'/>
+<seg id='KR3a0007_master_020' tp='103733' tcount='4610'>
+<ref ed='CH1a0907' corresp='#CH1a0907_d' tp='0' tcount='8739' diff='4141'/>
+<ref ed='KR3a0007_SBCK' corresp='#KR3a0007_SBCK_020-1a.01' tp='103738' tcount='4610'/>
+<ref ed='KR3a0007_WYG' corresp='#KR3a0007_WYG_019-25b.03' tp='104196' tcount='4615' diff='12'/>
 </seg>
 </div>
